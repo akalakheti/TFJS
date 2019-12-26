@@ -3,7 +3,7 @@ Python is the most preferred language for training models in keras. So, it is ob
 
 ## Files in Repo:
 1. ModelCreator.ipynb : A python notebook to train and save the keras model in .h5 form. It is a mnist image classifier.
-2.ModelConverter.ipynb : A python notebook to convert the .h5 model to tfjs compatible form.
+2. ModelConverter.ipynb : A python notebook to convert the .h5 model to tfjs compatible form.
 3. Index.html : HTML file to finally load the converted model in browser.
 
 The folders graph_model and layers_model are the folders to save the converted model.
